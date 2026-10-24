@@ -1,0 +1,35 @@
+# File cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Python
+.venv/
+venv/
+env/
+ENV/
+
+# File konfigurasi lokal
+.env
+
+# Pengaturan Visual Studio Code
+.vscode/
+
+# Pengaturan editor
+.idea/
+*.swp
+*.swo
+*~
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# File log
+*.log
+
+# File hasil pengujian
+.coverage
+htmlcov/
+.pytest_cache/
